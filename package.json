@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-combat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyuezhai/nodejs-combat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guyuezhai/nodejs-combat/issues"
+  },
+  "homepage": "https://github.com/guyuezhai/nodejs-combat#readme",
+  "dependencies": {
+    "current-processes": "^0.2.1",
+    "mongodb": "^3.6.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
